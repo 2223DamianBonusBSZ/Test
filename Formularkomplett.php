@@ -33,7 +33,7 @@
             $period = $now->diff($refDate)->format($format);
             ?>
         <div>
-            <img class="Bild" widght="200" height="100" src="LOGO.jpg" alt="logo">
+            <img class="Bild" widght="100" height="100" src="LOGO.jpg" alt="logo">
         </div>
         <h1>TV 1996 BFSISport</h1>
         <p>Wir bringen Menschen in Bewegung seit <?php echo $period ?> </p>        
